@@ -9,7 +9,7 @@
 ## Description:
 ![License](https://img.shields.io/badge/License--blue.svg "License Badge")
 
-A simple HTML page was created using pure CSS and HTML, full responsive for all devices.
+A simple HTML pages was created using pure CSS and HTML, full responsive for all devices.
 
 - [Website Link](https://volosevych.github.io/Bootstrap-Landing-Page/)
 
