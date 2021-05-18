@@ -11,7 +11,7 @@
 
 A simple HTML pages was created using pure CSS and HTML, full responsive for all devices.
 
-- [Website Link](https://volosevych.github.io/Bootstrap-Landing-Page/)
+- [Website Link](https://volosevych.github.io/Full-Responsive-Multi-Page-Website/)
 
 ## License:
     For more information about the License, click on the link below.
